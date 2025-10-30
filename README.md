@@ -1,3 +1,2 @@
 # DSC180A-Methodology-3
-Katelyn Zhao
-k5zhao@ucsd.edu
+Katelyn Zhao and Sophie Wang
